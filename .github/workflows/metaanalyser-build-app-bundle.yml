@@ -50,7 +50,7 @@ env:
   APP_DESC: "Interactive visualisation of meta-analysis"
   APP_HOMEPAGE: "https://github.com/chjackson/MetaAnalyser"
   APP_LICENSE: "GPL-2.0-or-later"
-  APP_MODE: "auto"
+  APP_MODE: "flat"
   APP_SUBDIR: "inst/MetaAnalyser"
   PKG_SUBDIR: "."
   ENTRY_FN: ""
